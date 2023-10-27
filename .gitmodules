@@ -1,0 +1,29 @@
+
+[submodule "libs/pugixml"]
+	path = libs/pugixml
+	url = https://github.com/zeux/pugixml
+[submodule "libs/ImGuiColorTextEdit"]
+	path = libs/ImGuiColorTextEdit
+	url = https://github.com/dfranx/ImGuiColorTextEdit
+[submodule "libs/imgui"]
+	path = libs/imgui
+	url = https://github.com/dfranx/imgui.git
+	branch = docking
+[submodule "libs/glslang"]
+	path = libs/glslang
+	url = https://github.com/KhronosGroup/glslang
+	ignore = dirty
+[submodule "libs/assimp"]
+	path = libs/assimp
+	url = https://github.com/dfranx/assimp.git
+[submodule "libs/SPIRV-VM"]
+	path = libs/SPIRV-VM
+	url = https://github.com/dfranx/SPIRV-VM.git
+	ignore = dirty
+[submodule "libs/ShaderExpressionParser"]
+	path = libs/ShaderExpressionParser
+	url = https://github.com/dfranx/ShaderExpressionParser
+[submodule "libs/SpvGenTwo"]
+	path = libs/SpvGenTwo
+	url = https://github.com/dfranx/SpvGenTwo
+	ignore = dirty
