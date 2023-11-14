@@ -19,8 +19,7 @@ SPIRV-Tools-reduceConfig.cmake
 SPIRV-ToolsConfig.cmake
 
 # Generated files
-libs/**/*.tcl
-libs/
+
 /include
 
 # Compiled binaries
